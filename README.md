@@ -1,4 +1,4 @@
-# Casual fit
+# Model animation
 
 <!-- For displaying a static screenshot -->
 <!-- Make sure the path matches your image location -->
